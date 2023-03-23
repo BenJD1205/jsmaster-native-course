@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jsmaster-native-course",
+    "slug": "jsmaster-native-course"
+  }
+}
